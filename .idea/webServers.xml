@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20af5972-5d36-4f7e-a071-689e9734f5ee" name="tencent_rinc" url="http://118.89.20.122">
+        <fileTransfer host="118.89.20.122" port="22" rootFolder="/home/rinc/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
